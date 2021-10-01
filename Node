@@ -1,0 +1,6 @@
+.........Add tempalte.....Bài 1
++ Vào resourecs --> view ---> tạo 2 folder ( front ,dashboard)
++ copy file index.html vào front đổi tên thành index.blade.php 
++ vào public copy các folder (css,is...)
+***** vào routes đổi đường dẫn 'front.index'
++ Đổi tên đường dẫn ảnh ,js ,css vd (css/....) thành (front/css/...)
